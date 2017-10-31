@@ -1,0 +1,9 @@
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\bin\Debug\Shared.dll
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\bin\Debug\Shared.pdb
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\bin\Debug\NServiceBus.Core.dll
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\bin\Debug\NServiceBus.Core.xml
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\obj\Debug\Shared.dll
+C:\Users\rstep\source\repos\ServiceBusApp\Shared\obj\Debug\Shared.pdb
